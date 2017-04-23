@@ -26,10 +26,9 @@ Basic Rules:
 
 ADOPTING YOUR CATS
 -----------------
-
-_As a cat lover_
-_In order to own as many cats as possible_
-_I want to adopt cats_
+_As a cat lover_<br>
+_In order to own as many cats as possible_<br>
+_I want to adopt cats_<br>
 
 **ADOPTION FEE**
 * $100, one time only for each cat.
@@ -44,9 +43,9 @@ _I want to adopt cats_
 CARING FOR YOUR CATS
 ---------------------
 
-_As a cat owner_
-_In order to keep my beloved cats healthy_
-_I want to care for my cats_
+_As a cat owner_<br>
+_In order to keep my beloved cats healthy_<br>
+_I want to care for my cats_<br>
 
 **VET BILLS**
 * $5/month per cat.
@@ -80,9 +79,9 @@ _I want to care for my cats_
 FANCY CATS
 ------------
 
-_As a cat lover_
-_In order to love even more cats_
-_I want to adopt fancy cats_
+_As a cat lover_<br>
+_In order to love even more cats_<br>
+_I want to adopt fancy cats_<br>
 
 * Every fifth cat you adopt is fancy.
 * Fancy cats eat fancy food, which is $30 per fancy cat.
@@ -91,9 +90,9 @@ _I want to adopt fancy cats_
 INTERACTING WITH YOUR CATS
 ---------------------------
 
-_As a cat owner_
-_In order to keep my cats happy_
-_I need to interact with my cats_
+_As a cat owner_<br>
+_In order to keep my cats happy_<br>
+_I need to interact with my cats_<br>
 
 **GROOMING**
 * $10 cat brush, one time only, you'll only ever need one.
