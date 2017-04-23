@@ -6,21 +6,21 @@ Cat-Tastrophe Cata
 By Yasi
 
 Objective:
-Determine the maximum number of cats you can afford given
+Determine the maximum number of cats you can afford given:
 
 * Your current savings (dollars)
 * Your monthly free income (dollars)
-* Your montly free time (hours)
+* Your monthly free time (hours)
 
 This will be determined using several rules.  This kata is designed to be of variable length, so you may implement as many or as few rules/stories as you wish.  It is designed to be done in order, but you do not have to finish.
 
-The point of this exercise is to use TDD practices to solve a problem writing clean, readable code.  A UI is not nessesary.
+The point of this exercise is to use TDD practices to solve a problem writing clean, readable code.  A UI is not necessary.
 
 Basic Rules:
 
-* You are willing to spend all of your savings, montly free income, and monthly free time all on cats, of course.
+* You are willing to spend all of your savings, monthly free income, and monthly free time all on cats, of course.
 * The cat-hating government will only let you have a maximum of 100 cats, no matter how many resources you have.
-* You plan on having your cats forever, so you cannot use your savings as montly income, or vice versa.  Monthly budget and upfront budget should be treated as separate resources.
+* You plan on having your cats forever, so you cannot use your savings as monthly income, or vice versa.  Monthly budget and upfront budget should be treated as separate resources.
 * You cannot pay someone to do your cat chores for you. That would diminish the bond between you and your cats.
 
 BUYING YOUR CATS
